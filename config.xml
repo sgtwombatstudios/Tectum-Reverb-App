@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectumestimator" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectum-reverb-app" version="0.0.1">
 
 	<name>Tectum Reverb</name>
 	<description>Estimate acoustic reduction panels needed for your space.</description>
