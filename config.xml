@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectumreverb" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectum-reverb-app" version="1.0">
 
 	<name>Tectum Reverb</name>
-	<description>Estimate acoustic reduction panels needed for your space.</description>
+	<description>Instantly calculate the number of Tectum sound absorption panels for your space.</description>
 	<author href="http://www.tectum.com"></author>
 
 	<icon src="icon-128.png" width="128" height="128" />
@@ -27,8 +27,6 @@
 	</feature>
 
 	<preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
-
-	<gap:plugin name="org.crosswalk.engine" source="pgb" />
 
 	<gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
 
