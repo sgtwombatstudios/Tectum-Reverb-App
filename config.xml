@@ -5,6 +5,8 @@
 	<description>Instantly calculate the number of Tectum sound absorption panels for your space.</description>
 	<author href="http://www.tectum.com"></author>
 
+	<icon src="icon.png" width="57" height="57" />
+	<icon src="icon-120.png" width="120" height="120" />
 	<icon src="icon-128.png" width="128" height="128" />
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
 
