@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectum-reverb-app" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tectum.tectum-reverb-app" version="1.0.3">
 
 	<name>Tectum Reverb</name>
 	<description>Instantly calculate the number of Tectum sound absorption panels for your space.</description>
@@ -24,7 +24,7 @@
 
 	<preference name="deployment-target" value="8.0" />
 	<preference name="android-minSdkVersion" value="21" />
-	<preference name="target-device" value="handset" />
+	<preference name="target-device" value="universal" />
 
 	<feature name="CDVWKWebViewEngine">
 		<param name="ios-package" value="CDVWKWebViewEngine" />
